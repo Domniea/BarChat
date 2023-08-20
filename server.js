@@ -6,7 +6,7 @@ require("dotenv").config()
 const morgan =require('morgan')
 const cors = require('cors')
 
-console.log('butts')
+console.log('boobs')
 mongoose.set('strictQuery', true)
 
 app.use(express.json())
